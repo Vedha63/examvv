@@ -1,5 +1,5 @@
 // Arith.java
-public class ArithmeticOperations {
+public class Arith{
     public static void main(String[] args) {
         int a = 20;
         int b = 10;
